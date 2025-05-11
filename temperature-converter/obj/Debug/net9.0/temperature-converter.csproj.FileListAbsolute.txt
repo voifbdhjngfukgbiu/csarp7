@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\csarp7\temperature-converter\bin\Debug\net9.0\temperature-converter.exe
+C:\Users\Admin\Desktop\csarp7\temperature-converter\bin\Debug\net9.0\temperature-converter.deps.json
+C:\Users\Admin\Desktop\csarp7\temperature-converter\bin\Debug\net9.0\temperature-converter.runtimeconfig.json
+C:\Users\Admin\Desktop\csarp7\temperature-converter\bin\Debug\net9.0\temperature-converter.dll
+C:\Users\Admin\Desktop\csarp7\temperature-converter\bin\Debug\net9.0\temperature-converter.pdb
+C:\Users\Admin\Desktop\csarp7\temperature-converter\obj\Debug\net9.0\temperature-converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\csarp7\temperature-converter\obj\Debug\net9.0\temperature-converter.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\csarp7\temperature-converter\obj\Debug\net9.0\temperature-converter.AssemblyInfo.cs
+C:\Users\Admin\Desktop\csarp7\temperature-converter\obj\Debug\net9.0\temperature-converter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\csarp7\temperature-converter\obj\Debug\net9.0\temperature-converter.dll
+C:\Users\Admin\Desktop\csarp7\temperature-converter\obj\Debug\net9.0\refint\temperature-converter.dll
+C:\Users\Admin\Desktop\csarp7\temperature-converter\obj\Debug\net9.0\temperature-converter.pdb
+C:\Users\Admin\Desktop\csarp7\temperature-converter\obj\Debug\net9.0\temperature-converter.genruntimeconfig.cache
+C:\Users\Admin\Desktop\csarp7\temperature-converter\obj\Debug\net9.0\ref\temperature-converter.dll
